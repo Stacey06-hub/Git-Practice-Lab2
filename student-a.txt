@@ -1,0 +1,4 @@
+Git Practice Lab
+Student: Stacey06-hub
+
+I am learning Git branching and collaboration.
